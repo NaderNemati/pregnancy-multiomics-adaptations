@@ -12,8 +12,8 @@ Furthermore, our investigation delves into the intricate relationship between re
 
 We invite you to explore the code, methodologies, and findings presented here, contributing to the expanding field of pregnancy-related multiomics adaptations. Your engagement and collaboration are warmly welcomed as we collectively enhance our understanding of this critical domain.
 
-For inquiries or collaborations, please reach out to Your Name (your.email@example.com).
+For inquiries or collaborations, please reach out to nader nemati (nnevar@utu.fi).
 
 ---
 
-**Note:** Replace placeholders such as "Your Name" and "your.email@example.com" with your actual contact details. This repository readme note succinctly introduces the core objectives of your project, the methodologies applied, and the significance of the research in the context of pregnancy-related adaptations.
+**Note:** Replace placeholders such as "Your Name" and "nnevar@utu.fi" with your actual contact details. This repository readme note succinctly introduces the core objectives of your project, the methodologies applied, and the significance of the research in the context of pregnancy-related adaptations.
